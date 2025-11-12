@@ -11,5 +11,9 @@
         "tokens": [
             "gAAAAABo77WtYlySn4kMhcuZGDUiiClpKdEZ8eP3LSMOYmVj8ttWxrSMn88kec2DfIT3VVW75NO3kgnadSB_XMYUeLlBGOnFRi4rJQDRMW90CAw-NPGNpCcmv0F-oxiyy9PXpP3MFv7yLIyp_Stnhqm3BnzUUyVlEZauxPd4uIvqPCTA4FaJQRPvpRaW-fsgQFk28pBsl9F_"
         ]
+    },
+    "bob": {
+        "password": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3",
+        "tokens": []
     }
 }
