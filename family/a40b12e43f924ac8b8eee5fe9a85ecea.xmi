@@ -3,12 +3,15 @@
   <families xmi:id="4fab3042ad334e1a8f4a1441b10cdd70" lastName="Simpson">
     <father xmi:id="3df9a810e7164bb3b91f9ccaec5790c0" firstName="Abraham"/>
     <mother xmi:id="3021439f056b4a549a04b891f542f3f7" firstName="Mona"/>
-    <sons xmi:id="fc04d2110f8241b980ee4c961219582f" firstName="Homer Jey"/>
   </families>
   <families xmi:id="36146a3367db45618b0446b950094efd" lastName="Bouvier">
     <father xmi:id="bd86a81f91dc41338c44e0c1d58b340b" firstName="Clancy"/>
     <mother xmi:id="f0e45d0c70eb47a6a0000a495ef0089e" firstName="Jacqueline"/>
     <daughters xmi:id="3c14366dae864da1955d7e5f930f08bb" firstName="Patty"/>
     <daughters xmi:id="abe8d515a25242789534eb284b198890" firstName="Selma"/>
+  </families>
+  <families xmi:id="3d5158e7deb741e181f768e4dd67bf42" lastName="Simpson">
+    <father xmi:id="887156ab85844dcab1b74d620f7fc75a" firstName="Homer"/>
+    <mother xmi:id="bb9123f62b5d4b34b9ec9c4f05328302" firstName="Marge"/>
   </families>
 </family:FamilyRegister>
