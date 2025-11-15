@@ -1,0 +1,47 @@
+[
+    {
+        "DELETE": [
+            {
+                "operation": "DEL",
+                "internal_id": "fc04d2110f8241b980ee4c961219582f",
+                "container_id": "4fab3042ad334e1a8f4a1441b10cdd70",
+                "file_source_xmi": "<?xml version='1.0' encoding='UTF-8'?>\n<family:Member xmlns:xmi=\"http://www.omg.org/XMI\" xmlns:family=\"http://www.example.org/family\" xmi:id=\"fc04d2110f8241b980ee4c961219582f\" firstName=\"Homer Jey\" xmi:version=\"2.0\"/>\n",
+                "element_References": [
+                    {
+                        "feature_name": "familySon",
+                        "feature_value": "4fab3042ad334e1a8f4a1441b10cdd70"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "ADD": [
+            {
+                "operation": "ADD",
+                "internal_id": "3d5158e7deb741e181f768e4dd67bf42"
+            },
+            {
+                "operation": "ADD",
+                "internal_id": "bb9123f62b5d4b34b9ec9c4f05328302"
+            },
+            {
+                "operation": "ADD",
+                "internal_id": "887156ab85844dcab1b74d620f7fc75a"
+            }
+        ]
+    },
+    {
+        "UPDATE": [
+            {
+                "operation": "DEL",
+                "type": "EReference",
+                "internal_id": "4fab3042ad334e1a8f4a1441b10cdd70",
+                "feature_name": "sons",
+                "feature_value": [
+                    "fc04d2110f8241b980ee4c961219582f"
+                ]
+            }
+        ]
+    }
+]
