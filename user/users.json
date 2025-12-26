@@ -13,6 +13,8 @@
     },
     "bob": {
         "password": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3",
-        "tokens": []
+        "tokens": [
+            "gAAAAABpTjjILpmL2Wsng40pdlbHXpVUw3hDiAAoRnSKh9JIUzfGlyNA3xyPcXk92yyRIBFbj2ygjS48Rit1roQBnvZDjgXR6V4gkFSKI_AQoaQSxDdiWv7LWYzhkKBJFgxiAV4-oOFzP89dD-3HyUSYuKc3g16D-rvISBl-gb9GjUUQtUtGvVJtjZEKqLwqR_-XSGU6praN"
+        ]
     }
 }
